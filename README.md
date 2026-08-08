@@ -3,7 +3,6 @@
 *A deliberately small [Pi](https://github.com/earendil-works/pi) setup for ML/LLM research — one scientist, clean-context specialists, explicit research artifacts, and reproducible experiments.*
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Pi coding agent](https://img.shields.io/badge/Pi-coding--agent-0.84%2B-purple.svg)](https://github.com/earendil-works/pi)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/EZfan/pi-research-agent/pulls)
 
 ---
